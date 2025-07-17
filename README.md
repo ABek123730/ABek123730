@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Abel Yohannes! 👋
 
-<!--
-**ABek123730/ABek123730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Career Goals 
+I'm an aspiring Mechanical engineer with strong intrest in Math and Physics 
 
-Here are some ideas to get you started:
+## About Me
+Outside of Tech, I love sawing cloth, goign to the gym, and playing soccer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education 
+Springbrink Brook HIghschool, Silver Spring, KKCF fellow
+
+Experience
+Treasury of MIND MATTER CLUB, volunteer for food distribution, Part of the PLTW pathway.
+
+Profile Image: 
+![20250602_065312](https://github.com/user-attachments/assets/5354b7f1-026f-48c9-904e-acede01c78cd)
+
+Links 
+www.linkedin.com/in/abel-tesfamariam-84859a36a
+

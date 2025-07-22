@@ -1,20 +1,21 @@
-## Hi there, I'm Abel Yohannes! 👋
+##### Hi there, I'm Abel Yohannes! 👋
 
-## Career Goals 
+#### Career Goals 
 I'm an aspiring Mechanical engineer with strong intrest in Math and Physics 
 
-## About Me
+#### About Me
 Outside of Tech, I love sawing cloth, goign to the gym, and playing soccer
 
-## Education 
+#### Education 
 Springbrink Brook HIghschool, Silver Spring, KKCF fellow
 
-Experience
+#### Experience
 Treasury of MIND MATTER CLUB, volunteer for food distribution, Part of the PLTW pathway.
 
-Profile Image: 
-![20250602_065312](https://github.com/user-attachments/assets/5354b7f1-026f-48c9-904e-acede01c78cd)
+#### Profile Image: 
 
-Links 
+![20250601_201920](https://github.com/user-attachments/assets/8ff40dab-e785-4fa8-ac47-27c7f20651a4)
+
+#### Links 
 www.linkedin.com/in/abel-tesfamariam-84859a36a
 
